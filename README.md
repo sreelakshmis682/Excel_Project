@@ -1,2 +1,2 @@
-#Projects_Excel,Power Bi,SQL,Python
+#Projects _ Excel,Power Bi,SQL,Python
 
